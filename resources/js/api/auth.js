@@ -1,0 +1,1 @@
+export const login = data => axios.post("login", data);
